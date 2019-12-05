@@ -1,7 +1,7 @@
 # classfy-text
 
 
-npm install 
+npm install  <br />
 npm run dev 
 
 api run in post 3000
