@@ -13,7 +13,7 @@
   "dependencies": {
     "brain.js": "^2.0.0-alpha.9",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "natural": "^0.6.3",
     "natural-brain": "^0.3.2",
     "nodemon": "^1.19.3",
